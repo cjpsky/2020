@@ -1,0 +1,328 @@
+{
+  "quotaId": "03E73227D6364139825C9ED8E37SD0CM",
+  "quotaName": "销售额增长率",
+  "stage": "2016",
+  "cycleName": "年",
+  "attributes": [
+    {
+      "attribute": "ZL",
+      "attributeName": "增量（亿）",
+      "isDefault": false,
+      "charType": 1
+    },
+    {
+      "attribute": "TBZF",
+      "attributeName": "同比增幅（%）",
+      "isDefault": false,
+      "charType": 1
+    },
+    {
+      "attribute": "DF",
+      "attributeName": "得分",
+      "isDefault": true,
+      "charType": 0
+    }
+  ],
+  "enterpriseComparisonQuotaValue": [
+    {
+      "orgId": "03C73227D6364139825C9ED8E37BD0CF",
+      "orgName": "广东",
+      "rank": "2",
+      "values": {
+        "ZL": "93",
+        "TBZF": "26.3%",
+        "DF": "26.40"
+      }
+    },
+    {
+      "orgId": "03C2A52FCAFF4688B5C76A40D0708D0F",
+      "orgName": "安徽",
+      "rank": "3",
+      "values": {
+        "ZL": "28",
+        "TBZF": "21.7%",
+        "DF": "17.60"
+      }
+    },
+    {
+      "orgId": "BC002B67A96F4F50BBB95FDB03539317",
+      "orgName": "云南",
+      "rank": "4",
+      "values": {
+        "ZL": "26",
+        "TBZF": "19.7%",
+        "DF": "16.00"
+      }
+    },
+    {
+      "orgId": "A59964D4506A43818CF2ACA57D663FF6",
+      "orgName": "吉林",
+      "rank": "5",
+      "values": {
+        "ZL": "5",
+        "TBZF": "21.4%",
+        "DF": "15.40"
+      }
+    },
+    {
+      "orgId": "75A6C05F07744C8D9EEAACD2BA1A4DB7",
+      "orgName": "江苏",
+      "rank": "6",
+      "values": {
+        "ZL": "44",
+        "TBZF": "15.0%",
+        "DF": "14.30"
+      }
+    },
+    {
+      "orgId": "D891875A3BDF440FAE09BE46B8901646",
+      "orgName": "陕西",
+      "rank": "7",
+      "values": {
+        "ZL": "10",
+        "TBZF": "18.7%",
+        "DF": "13.90"
+      }
+    },
+    {
+      "orgId": "4FBF57CEDD674FF2B79A993BCF819900",
+      "orgName": "辽宁",
+      "rank": "8",
+      "values": {
+        "ZL": "10",
+        "TBZF": "14.7%",
+        "DF": "11.20"
+      }
+    },
+    {
+      "orgId": "EBEF7B892DDB47E5B04A6D886847FB8A",
+      "orgName": "青海",
+      "rank": "9",
+      "values": {
+        "ZL": "2",
+        "TBZF": "14.9%",
+        "DF": "10.60"
+      }
+    },
+    {
+      "orgId": "341C35D17D0A429E88BC530516F743A4",
+      "orgName": "河南",
+      "rank": "10",
+      "values": {
+        "ZL": "18",
+        "TBZF": "12.4%",
+        "DF": "10.20"
+      }
+    },
+    {
+      "orgId": "337C5F3095D842C396D4D6F6B03BA8CA",
+      "orgName": "河北",
+      "rank": "11",
+      "values": {
+        "ZL": "16",
+        "TBZF": "12.0%",
+        "DF": "9.70"
+      }
+    },
+    {
+      "orgId": "46ECB48609D2490F9C23A2A2EC8BCFEA",
+      "orgName": "重庆",
+      "rank": "12",
+      "values": {
+        "ZL": "12",
+        "TBZF": "12.3%",
+        "DF": "9.60"
+      }
+    },
+    {
+      "orgId": "2CC42C1D2E194EADA16610D0E1BCF52F",
+      "orgName": "浙江",
+      "rank": "13",
+      "values": {
+        "ZL": "31",
+        "TBZF": "7.4%",
+        "DF": "7.90"
+      }
+    },
+    {
+      "orgId": "8A32901FB5A043828DA69C347D6D4409",
+      "orgName": "山东",
+      "rank": "14",
+      "values": {
+        "ZL": "21",
+        "TBZF": "8.5%",
+        "DF": "7.70"
+      }
+    },
+    {
+      "orgId": "08AD4E449BFA405D87C80461E4F5F56F",
+      "orgName": "黑龙江",
+      "rank": "15",
+      "values": {
+        "ZL": "4",
+        "TBZF": "9.0%",
+        "DF": "6.60"
+      }
+    },
+    {
+      "orgId": "81B93635AD144085AF3A5B8BE27C9D76",
+      "orgName": "四川",
+      "rank": "16",
+      "values": {
+        "ZL": "9",
+        "TBZF": "7.6%",
+        "DF": "6.10"
+      }
+    },
+    {
+      "orgId": "E5913E637E3643E89B3A74A60C5318EA",
+      "orgName": "贵州",
+      "rank": "17",
+      "values": {
+        "ZL": "9",
+        "TBZF": "6.3%",
+        "DF": "5.10"
+      }
+    },
+    {
+      "orgId": "64694C7F2405465EBF2343C57300C5A6",
+      "orgName": "山西",
+      "rank": "18",
+      "values": {
+        "ZL": "5",
+        "TBZF": "4.2%",
+        "DF": "3.40"
+      }
+    },
+    {
+      "orgId": "9D72F4FB26054F8FAFEE9FDB5906F05F",
+      "orgName": "湖南",
+      "rank": "19",
+      "values": {
+        "ZL": "5",
+        "TBZF": "3.4%",
+        "DF": "2.80"
+      }
+    },
+    {
+      "orgId": "BC8E5E334F7241FA83BE4A27A386267D",
+      "orgName": "江西",
+      "rank": "20",
+      "values": {
+        "ZL": "3",
+        "TBZF": "2.7%",
+        "DF": "2.20"
+      }
+    },
+    {
+      "orgId": "BBA5CF676F44466BA107C8427503EF8B",
+      "orgName": "宁夏",
+      "rank": "21",
+      "values": {
+        "ZL": "0",
+        "TBZF": "2.1%",
+        "DF": "1.50"
+      }
+    },
+    {
+      "orgId": "F4EE998F99FE4716B086E449F5509DD3",
+      "orgName": "福建",
+      "rank": "22",
+      "values": {
+        "ZL": "2",
+        "TBZF": "1.3%",
+        "DF": "1.10"
+      }
+    },
+    {
+      "orgId": "8E781CC5D34C45589DFFA7E78A855BE6",
+      "orgName": "湖北",
+      "rank": "23",
+      "values": {
+        "ZL": "-1",
+        "TBZF": "-0.4%",
+        "DF": "-0.30"
+      }
+    },
+    {
+      "orgId": "695BA4B7DC7B4EDA9F67817205C314C6",
+      "orgName": "内蒙古",
+      "rank": "24",
+      "values": {
+        "ZL": "-0",
+        "TBZF": "-1.1%",
+        "DF": "-0.80"
+      }
+    },
+    {
+      "orgId": "75E719A384AB4A819EDE200AD4C15E1F",
+      "orgName": "甘肃",
+      "rank": "25",
+      "values": {
+        "ZL": "-0",
+        "TBZF": "-4.5%",
+        "DF": "-3.20"
+      }
+    },
+    {
+      "orgId": "223E4BF6AFBB4E559ECBCB99FC025A27",
+      "orgName": "广西",
+      "rank": "26",
+      "values": {
+        "ZL": "-7",
+        "TBZF": "-4.0%",
+        "DF": "-3.30"
+      }
+    },
+    {
+      "orgId": "48355A957165498796707869B11A9755",
+      "orgName": "上海",
+      "rank": "27",
+      "values": {
+        "ZL": "-5",
+        "TBZF": "-4.7%",
+        "DF": "-3.70"
+      }
+    },
+    {
+      "orgId": "28F297E2F0B949ADA15C1DB5DEB44F0A",
+      "orgName": "海南",
+      "rank": "28",
+      "values": {
+        "ZL": "-3",
+        "TBZF": "-8.1%",
+        "DF": "-6.00"
+      }
+    },
+    {
+      "orgId": "CC03A07FC76E40C69DA97E73346EF14F",
+      "orgName": "北京",
+      "rank": "29",
+      "values": {
+        "ZL": "-12",
+        "TBZF": "-7.1%",
+        "DF": "-6.00"
+      }
+    },
+    {
+      "orgId": "492055452E2711EBA2CC6C92BF6E8BC3",
+      "orgName": "西藏",
+      "rank": "30",
+      "values": {
+        "ZL": "-2",
+        "TBZF": "-26.3%",
+        "DF": "-18.50"
+      }
+    },
+    {
+      "orgId": "84DB90F3818B4CCEBF77F2C6F07323ED",
+      "orgName": "天津",
+      "rank": "31",
+      "values": {
+        "ZL": "-16",
+        "TBZF": "-27.2%",
+        "DF": "-20.40"
+      }
+    }
+  ]
+}
