@@ -1,7 +1,8 @@
 # .net Core 采用iTestSharp生成PDF（添加文字水印）
 > 最近手上有个项目，需要导出pdf并添加水印，网上可找的资料也有很多，我这里采用了iTextSharp.LGPLv2.Core版本库，代码整理了下分享给有需要的小伙伴。
 
-> demo采用.net core 3.1
+    demo采用.net core 3.1
+
 ### 1.Nuget包
 
 > iTextSharp.LGPLv2.Core
